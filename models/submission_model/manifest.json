@@ -4,15 +4,15 @@
     {
       "alpha": 0.8,
       "members": [
-        "core_a",
-        "core_b"
+        "m1",
+        "m2"
       ]
     },
     {
       "alpha": 0.2,
       "members": [
-        "aux_a",
-        "aux_b"
+        "m3",
+        "m4"
       ]
     }
   ]
